@@ -1,0 +1,21 @@
+{
+  "src": "imgs/cookies.jpg",
+  "title": "French Cookies",
+  "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis iure numquam voluptatibus excepturi oluta asperiores labore doloribus corporis! Nobis qui odio ex doloremque.",
+  "overview": {
+    "difficulty" : 2.5,
+    "cost" : 2,
+    "prepTime" : 45,
+    "cookTime" : 0,
+    "restTime" : 10
+  },
+  "ingredients": {
+    "defaultServings" : 4,
+    "defaultQuantities" :  [
+      { "name" : "Tomato", "quantity": 2, "Metric" : "Piece" },
+      { "name" : "Chocolate", "quantity": 300, "Metric" : "Gram" },
+      { "name" : "Flour", "quantity": 150, "Metric" : "Gram" },
+      { "name" : "Milk", "quantity": 25, "Metric" : "Cl" }
+    ]
+  }
+}

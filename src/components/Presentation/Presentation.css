@@ -1,0 +1,13 @@
+.title {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 2em;
+    color: hsl(0, 0%, 35%);
+    margin: 5px 0;
+}
+.description {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    font-size: 1em;
+    color: hsl(0, 0%, 35%);
+}

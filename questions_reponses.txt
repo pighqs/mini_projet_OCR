@@ -1,0 +1,16 @@
+1 / Pourquoi avoir choisi React ?
+j'ai chosi ce framework parce qu'il répond aux attentes des pages web modernes de par sa réactivité et sa modularité.
+Par ailleurs la doc React est tres bien construite et il est facile de trouver des reponses quand on a un probleme car il est tres utilisé.
+
+2 / Comment as tu défini l'architecture du projet ?
+j'ai préféré découper la maquette en modules, chaque mosule devant être réutilisable oar ailleurs.
+C'est pourquoi j'ai créé un composant pour chaque element de page amené à être réutilisé.
+J'ai aussi décidé de mettre le style de chaque composant avec son composant, l'idée étant de suivre la philosophie React
+qui dit qu'on doit pouvoir passer son composant à quelqu'un d'autre et qu'il doit s'afficher de la meme façon que sur notre interface.
+
+3 / quel est le principal intéret des fonctions fléchées ?
+le "this" d'une fonction fléchée est bindé au contexte dans lequel la fonction est définie.
+
+4/ Quelle est la différence entre undefined et null en Javascript ?
+undefined n'est pas une valeur, c'est la propriété d'un objet qui signifié que sa valeur n'est pas définie.
+null est une valeur qui est stockée en mémoire
